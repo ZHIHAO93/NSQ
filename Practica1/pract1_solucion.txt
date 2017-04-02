@@ -1,0 +1,46 @@
+Práctica 1 -  NoSQL - Solución
+Nombre 1: 
+Nombre 2:
+Observaciones:
+
+
+Respuestas
+
+1# 
+db.miniuser.find({geo_enabled:true},{_id:false,screen_name:true,time_zone:true,location:true});
+
+2# 
+db.miniuser.distinct("time_zone").length;
+
+3#
+db.minitweet.find({created_at:{$gt:ISODate("2016-11-11T11:11:11Z")}}).count();
+
+4#
+db.miniuser.find({$or:[{RTIn:{$gt:100}},{mentions:{$gt:100}}]},{_id:0, screen_name:1});
+
+5#
+db.miniuser.find().map(function(doc){return doc.tweets.original/doc.tweets.total});
+
+6#
+db.pru.find({},{_id:0}).sort({b:1,a:-1});
+
+7#¿Conmutan? (S/N): S
+7#Ejemplo: 
+db.miniuser.find().limit(1).sort({screen_name:-1});
+db.miniuser.find().sort({screen_name:-1}).limit(1);
+
+8#¿Verdadero o Falso? (V/F): F
+8#Justificación: 
+Primero se ordenan todos
+
+
+9#Instrucción que falta:
+x[y]++;
+
+10#¿Son equivalentes? (S/N): N
+10#Una frase (en caso de S), o un contraejemplo (en caso de N):
+Al ejecutar sobre una coleccion vacia find().limit(1) no devuelve nada y findOne() escribe null
+
+
+
+
