@@ -1,1 +1,1 @@
-# Práctica 2 – Consultas en MongoDB
+Práctica 2 – Consultas en MongoDB
