@@ -1,0 +1,38 @@
+Bases de datos NoSQL - práctica 6
+
+#Nombre1: 
+#Nombre2:
+#Nombre3:
+
+#Observaciones:
+
+#P1a Insert:
+
+#P1b Indice:
+
+#P2 Consulta:
+
+#P3a Borrado de índice:
+
+#P3b Resultado del sistema:
+
+#P4a Creación de índices:
+#P4b Comentario sobre dif de tamaños:
+
+#P5 Consulta:
+
+#P6a Índice (Sí/No):
+#P6b ¿Cuál? (Sí/No):
+
+#P7 Consulta:
+
+#P8 Creación de índice:
+
+#P9a ¿Sé puede crear el índice?(Sí/No):
+
+#P9b ¿Por qué? (una frase):
+
+#P10a ¿Sé puede crear el índice para mejorar?(Sí/No):
+
+#P10b Si la respuesta es sí, copiar la instrucción para crearlo. Si es no, escribir una frase explicando por qué.
+

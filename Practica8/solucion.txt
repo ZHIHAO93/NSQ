@@ -1,0 +1,33 @@
+﻿
+Práctica 8 -  NoSQL - Solución
+Nombre 1: 
+Nombre 2:
+Observaciones:
+
+
+Respuestas
+
+1#Instrucciones: 
+1#Configuración:
+
+
+2#Indicar el comando en shell
+2#parte de la respuesta que muestra esta información en shell:
+2#Indicar el comando en linux
+2#parte de la respuesta que muestra esta información en linux:
+ 
+
+3#¿por qué se obtiene el resultado que se puede ver como respuesta? (una frase): 
+
+#4 ¿Se puede ver desde alguno la colección tururu? 
+#4 ¿Está completa? 
+
+#5 ¿Se puede ver la colección directamente tururu de la base de datos pruebas desde 27001?
+#5 ¿En caso negativo, qué hay que hacer?
+
+#6 Instrucción:
+
+#7 Instrucción:
+
+#8 Secuencia de instrucciones:
+

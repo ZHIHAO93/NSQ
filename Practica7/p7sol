@@ -1,0 +1,50 @@
+
+Práctica 7 -  NoSQL - Solución
+Nombre 1: 
+Nombre 2:
+Observaciones:
+
+
+Respuestas
+
+P1#Consulta: 
+
+
+
+P2#Instrucción que crea el índice: 
+ 
+
+P3#Consulta: 
+
+
+P4#Consulta:
+
+5#Instrucción índice 1:
+5#Instrucción índice 2:
+
+
+6#Consulta:
+
+
+P7#
+Instrucción:
+Índices (nombres de los índices separados por comas (o “ninguno”)):
+Documentos (el total de  documentos accedidos):
+Claves (total de claves de índice a las que se han accedido)
+
+P8#
+Índices:
+Documentos:
+Claves
+Explicación:
+
+
+P9#
+Consulta:
+Índices:
+Explicación:
+Rechazados:
+
+P10#
+Más eficiente (a/b/ninguna):
+Explicación:

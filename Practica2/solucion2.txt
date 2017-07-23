@@ -1,0 +1,28 @@
+Bases de datos NoSQL - práctica 2
+
+#Nombre1: 
+#Nombre2:
+#Nombre3:
+
+#Observaciones:
+
+#P1 Consulta:
+
+#P2 Consulta:
+
+#P3 Consulta:
+
+#P4 Consulta:
+
+#P5 Consulta:
+
+#P6 Consulta:
+
+#P7 Consulta:
+
+#P8 Consulta:
+
+#P9 Consulta:
+
+#P10 Consulta:
+

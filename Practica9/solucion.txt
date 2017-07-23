@@ -1,0 +1,38 @@
+
+Práctica 9 -  NoSQL - Solución
+Nombre 1: 
+Nombre 2:
+Observaciones:
+
+
+Respuestas
+
+1#Instrucciones para crear las carpetas: 
+1#Instrucciones para crear los servidores de configuración: 
+1#Instrucciones para crear los servidores de datos: 
+1#Instrucciones para crear el servidor mongos: 
+
+
+2#Comandos shell para crear los conjuntos réplica:
+ 
+3#Comandos shell para 	 las particiones
+
+
+#4a¿Está particionada la base de datos pin-pon? (SÃí/No):
+#4b¿Qué parte de la respuesta que muestra sh.status lo indica? (una frase)  
+
+#5 Instrucciones
+
+#6 Número de documentos en la partición a: 6566
+#6 Número de documentos en la partición b: 13434
+
+#7 a)
+#7 b)
+#7 c)
+
+#8 a)
+#8 b)
+#8 c)
+
+#9 Consulta:
+
